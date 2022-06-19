@@ -1,7 +1,7 @@
 import os 
 import sys
 
-print("Nmap Quick Script Tool! \nA python script to automate frequent nmap scans at work. \nWritten By: Robel Campbell \nhttps://github.com/robel1889/nmap_quick_script.git")
+print("Nmap Quick Script Tool! \nA python script to automate frequent nmap scans at work.")
 
 
 def usage():
