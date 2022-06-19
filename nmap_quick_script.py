@@ -1,12 +1,3 @@
-#################################################################
-## Title: Nmap Quick Script                                    ##         
-## Author: Robel Campbell                                      ## 
-## Position: Penetration Tester                                ## 
-## Company: ePlus Technology                                   ## 
-## Date Created: 7/3/2019                                      ## 
-## Website: https://github.com/robel1889/nmap_quick_script.git ##
-#################################################################
-
 import os 
 import sys
 
